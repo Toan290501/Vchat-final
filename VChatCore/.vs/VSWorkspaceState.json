@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VChatCore",
+    "\\VChatCore\\Controllers",
+    "\\VChatCore\\Model",
+    "\\VChatCore\\obj",
+    "\\VChatCore\\obj\\Debug",
+    "\\VChatCore\\obj\\Debug\\netcoreapp3.1",
+    "\\VChatCore\\Properties",
+    "\\VChatCore\\Resource",
+    "\\VChatCore\\Service"
+  ],
+  "SelectedNode": "\\VChatCore.sln",
+  "PreviewInSolutionExplorer": false
+}

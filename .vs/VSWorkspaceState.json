@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VChatApp",
+    "\\VChatApp\\src",
+    "\\VChatApp\\src\\assets",
+    "\\VChatCore",
+    "\\VChatCore\\VChatCore",
+    "\\VChatCore\\VChatCore\\Controllers",
+    "\\VChatCore\\VChatCore\\Resource",
+    "\\VChatCore\\VChatCore\\Service",
+    "\\VChatCore\\VChatCore\\Util"
+  ],
+  "SelectedNode": "\\VChatCore\\VChatCore\\Controllers\\AuthsController.cs",
+  "PreviewInSolutionExplorer": false
+}
